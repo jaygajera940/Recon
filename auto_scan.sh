@@ -1,6 +1,7 @@
-#!/bin/bash
 
-input=$1
+
+input=$10
+out=15
 
 masscan_scan() {
 mkdir -p ip tmp nmap
@@ -36,6 +37,6 @@ nmap_scan
 
 remove_file () {
 
-rm ip tmp -R
+rm ip tmp -R  */remove
 }
 remove_file
