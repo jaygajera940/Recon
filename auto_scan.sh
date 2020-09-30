@@ -1,6 +1,7 @@
 
 
-input=$1
+input=$10
+out=15
 
 masscan_scan() {
 mkdir -p ip tmp nmap
