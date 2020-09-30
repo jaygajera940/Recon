@@ -36,6 +36,6 @@ nmap_scan
 
 remove_file () {
 
-rm ip tmp -R
+rm ip tmp -R  */remove
 }
 remove_file
