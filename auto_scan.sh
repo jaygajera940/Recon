@@ -1,4 +1,5 @@
 
+echo"start scan"
 
 input=$10
 out=15
