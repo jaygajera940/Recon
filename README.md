@@ -1,2 +1,4 @@
 # Recon
-Automate your Recon 
+Automate your Recon easy
+-Find target
+-fast
