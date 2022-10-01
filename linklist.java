@@ -15,6 +15,7 @@ public class Test {
 		ll.addLast("C");
 		ll.addFirst("D");
 		ll.add(2, "E");
+		ll.add(3,"F");
 
 		System.out.println(ll);
 
