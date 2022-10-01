@@ -1,6 +1,9 @@
 
     int n,q;
 vector<int> a;
+int byyy,aaa,caa;
+vector<string> tree;
+// this is just variables chill
 
 struct data
 {
